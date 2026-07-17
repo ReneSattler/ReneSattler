@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Rene 👋
 
-<!--
-**ReneSattler/ReneSattler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a strong interest in home automation, smart home projects, Docker, and Proxmox.
 
-Here are some ideas to get you started:
+I enjoy building practical and reliable solutions and exploring ways to make technology work smoothly at home.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Home automation
+- Smart home setups
+- Docker
+- Proxmox
+- Self-hosting and automation
+
+## Currently exploring
+- Improving my automation setups
+- Learning more about infrastructure and container-based systems
+
+This is a simple start for my GitHub profile.
