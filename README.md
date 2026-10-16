@@ -26,12 +26,6 @@ I enjoy building practical and reliable solutions and exploring ways to make tec
 - Git & GitHub
 - MQTT + Zigbee2MQTT
 
-### Professional background
-- Splunk (SOC: CIM, TA apps, parsing / monitoring for microservice containers)
-- Kotlin + AWS (microservices in Kubika environment, STO / myAudi)
-- PostgreSQL + C# (test management and test automation)
-- Java + MQTT (openHAB integration for Car & Home Online, big-data coverage analysis)
-
 ## Projects
 - [ha-irrigation-sequencer](https://github.com/ReneSattler/ha-irrigation-sequencer) — Multi-zone irrigation control for Home Assistant with Lovelace cards, sequence + winter mode.
 - [ha-laundry-assistant](https://github.com/ReneSattler/ha-laundry-assistant) — Turns a power-metering smart plug into washer/dryer phase, remaining-time and cost view.
