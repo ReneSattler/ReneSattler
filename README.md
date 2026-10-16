@@ -30,11 +30,6 @@ I enjoy building practical and reliable solutions and exploring ways to make tec
 - [ha-irrigation-sequencer](https://github.com/ReneSattler/ha-irrigation-sequencer) — Multi-zone irrigation control for Home Assistant with Lovelace cards, sequence + winter mode.
 - [ha-laundry-assistant](https://github.com/ReneSattler/ha-laundry-assistant) — Turns a power-metering smart plug into washer/dryer phase, remaining-time and cost view.
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSattler&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneSattler&layout=compact&theme=dark&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=ReneSattler&theme=dark&hide_border=true)
-
 ## Currently exploring
 - Improving my automation setups
 - Learning more about infrastructure and container-based systems
