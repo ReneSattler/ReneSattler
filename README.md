@@ -4,10 +4,6 @@ I'm a software developer with a strong interest in home automation, smart home p
 
 I enjoy building practical and reliable solutions and exploring ways to make technology work smoothly at home.
 
-![Profile views](https://komarev.com/ghpvc/?username=ReneSattler&style=flat)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9-sattler-332399124)
-
 ## Interests
 - Home automation
 - Smart home setups
