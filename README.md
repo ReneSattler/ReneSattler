@@ -4,6 +4,10 @@ I'm a software developer with a strong interest in home automation, smart home p
 
 I enjoy building practical and reliable solutions and exploring ways to make technology work smoothly at home.
 
+![Profile views](https://komarev.com/ghpvc/?username=ReneSattler&style=flat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9-sattler-332399124)
+
 ## Interests
 - Home automation
 - Smart home setups
@@ -38,6 +42,11 @@ I enjoy building practical and reliable solutions and exploring ways to make tec
 - [ha-vacation-assistant](https://github.com/ReneSattler/ha-vacation-assistant) — Lightweight vacation mode on top of existing automations, heating cap + lights.
 - [trainmate-ai](https://github.com/ReneSattler/trainmate-ai) — Local-first AI training partner from Garmin data, running + strength/HIIT.
 - [forge3](https://github.com/ReneSattler/forge3) — Offline-first PWA for training plans + tracking, no backend.
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSattler&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneSattler&layout=compact&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=ReneSattler&theme=dark&hide_border=true)
 
 ## Currently exploring
 - Improving my automation setups
