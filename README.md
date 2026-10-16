@@ -29,9 +29,6 @@ I enjoy building practical and reliable solutions and exploring ways to make tec
 ## Projects
 - [ha-irrigation-sequencer](https://github.com/ReneSattler/ha-irrigation-sequencer) — Multi-zone irrigation control for Home Assistant with Lovelace cards, sequence + winter mode.
 - [ha-laundry-assistant](https://github.com/ReneSattler/ha-laundry-assistant) — Turns a power-metering smart plug into washer/dryer phase, remaining-time and cost view.
-- [ha-vacation-assistant](https://github.com/ReneSattler/ha-vacation-assistant) — Lightweight vacation mode on top of existing automations, heating cap + lights.
-- [trainmate-ai](https://github.com/ReneSattler/trainmate-ai) — Local-first AI training partner from Garmin data, running + strength/HIIT.
-- [forge3](https://github.com/ReneSattler/forge3) — Offline-first PWA for training plans + tracking, no backend.
 
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSattler&show_icons=true&theme=dark&hide_border=true)
