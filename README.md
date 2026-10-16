@@ -29,7 +29,7 @@ I enjoy building practical and reliable solutions and exploring ways to make tec
 ### Professional background
 - Splunk (SOC: CIM, TA apps, parsing / monitoring for microservice containers)
 - Kotlin + AWS (microservices in Kubika environment, STO / myAudi)
-- PostgreSQL + C# (TORINO test management, ENNA Python framework)
+- PostgreSQL + C# (test management and test automation)
 - Java + MQTT (openHAB integration for Car & Home Online, big-data coverage analysis)
 
 ## Projects
